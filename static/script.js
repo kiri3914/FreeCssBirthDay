@@ -1,11 +1,3 @@
-/* JavaScript Document
-
-TemplateMo 605 Xmas Countdown
-
-https://templatemo.com/tm-605-xmas-countdown
-
-*/
-
 // Create Particles and Snowflakes
 function createParticles() {
    const container = document.getElementById('particles');
